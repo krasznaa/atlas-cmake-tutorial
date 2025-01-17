@@ -1,4 +1,4 @@
-# atlas-cmake-tutorial
+# ATLAS CMake Tutorial
 
 Material for the ATLAS software developers' tutorial about CMake. To be used
 together with the instructions on:
